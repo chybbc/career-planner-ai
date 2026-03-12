@@ -1,0 +1,8 @@
+streamlit
+pandas
+openpyxl
+matplotlib
+seaborn
+wordcloud
+jieba
+scikit-learn
